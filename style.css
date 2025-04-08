@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: azure;
+    color: blue;
+    padding: 20px;
+}
+
+.list{
+    margin: 20px;
+    color: blue;
+    display: block;
+}
+
+.home{
+    display: inline;
+    text-align: right;
+}
+
+.image{
+    box-sizing: content-box;
+    margin: 50px;
+    padding: 20px;
+    border: solid blue 3px;
+}
